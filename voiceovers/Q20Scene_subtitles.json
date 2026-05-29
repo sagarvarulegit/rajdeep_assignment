@@ -2,19 +2,19 @@
     {
         "time": 2.0,
         "text": "Problem: Estimate the diameter of the sun if it subtends an angle of 32 minutes at the observer's eye, at a distance of 91 million km.",
-        "duration": 9.659501,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q20Scene\\sub_0.mp3"
+        "duration": 10.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q20Scene\\sub_0.mp3"
     },
     {
-        "time": 11.649999999999999,
+        "time": 12.216666666666667,
         "text": "Convert 32 minutes to radians: first divide by 60 to get degrees, then multiply by pi over 180. Using 22 over 7 for pi, we get 44 over 4725 radians.",
-        "duration": 11.656417,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q20Scene\\sub_1.mp3"
+        "duration": 14.16,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q20Scene\\sub_1.mp3"
     },
     {
-        "time": 23.299999999999997,
+        "time": 26.366666666666667,
         "text": "Since the sun is very far, its diameter is approximately the arc length s. Using s equals r times theta, we multiply 91 million by 44 over 4725.",
-        "duration": 10.866939,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q20Scene\\sub_2.mp3"
+        "duration": 14.4,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q20Scene\\sub_2.mp3"
     }
 ]

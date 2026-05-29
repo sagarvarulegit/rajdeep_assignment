@@ -2,31 +2,31 @@
     {
         "time": 2.0,
         "text": "Problem: The angles of a triangle are in Arithmetic Progression, and the greatest angle is double the least. Find them in radians.",
-        "duration": 7.105306,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q19Scene\\sub_0.mp3"
+        "duration": 9.28,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q19Scene\\sub_0.mp3"
     },
     {
-        "time": 9.083333333333334,
+        "time": 11.25,
         "text": "Let the angles be A, B, and C. Since they are in A.P., the middle angle B is exactly 60 degrees.",
-        "duration": 5.851429,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q19Scene\\sub_1.mp3"
+        "duration": 6.96,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q19Scene\\sub_1.mp3"
     },
     {
-        "time": 15.833333333333334,
+        "time": 18.2,
         "text": "The greatest angle C is double the least angle A, so C equals 2A.",
-        "duration": 4.643991,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q19Scene\\sub_2.mp3"
+        "duration": 6.32,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q19Scene\\sub_2.mp3"
     },
     {
-        "time": 21.600000000000104,
+        "time": 24.516666666666666,
         "text": "Substituting C equals 2A into A + B + C = 180, we find A is 40 degrees, and C is 80 degrees.",
-        "duration": 8.359184,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q19Scene\\sub_3.mp3"
+        "duration": 9.6,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q19Scene\\sub_3.mp3"
     },
     {
-        "time": 29.93333333333355,
+        "time": 34.1,
         "text": "Converting the angles to radians: 40 degrees is 2 pi over 9, 60 degrees is pi over 3, and 80 degrees is 4 pi over 9.",
-        "duration": 7.337506,
-        "audio_path": "voiceovers\\cache_elevenlabs\\Q19Scene\\sub_4.mp3"
+        "duration": 12.08,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q19Scene\\sub_4.mp3"
     }
 ]
