@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: A train runs on a circular track of radius 1500 m at 60 km/h. Find the angle turned in 10 seconds.",
+        "duration": 11.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q11Scene\\sub_0.mp3"
+    },
+    {
+        "time": 13.816666666666666,
+        "text": "First, find the distance covered in 10 seconds. Convert speed to meters per second by multiplying by 5 over 18.",
+        "duration": 9.6,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q11Scene\\sub_1.mp3"
+    },
+    {
+        "time": 23.4,
+        "text": "Now, apply s equals r times theta. The angle theta is s divided by r, which yields 1 over 9 radians.",
+        "duration": 10.08,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q11Scene\\sub_2.mp3"
+    },
+    {
+        "time": 33.449999999999996,
+        "text": "Finally, convert 1 over 9 radians to degrees by multiplying by 180 over pi. This simplifies to 20 over pi degrees.",
+        "duration": 9.68,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q11Scene\\sub_3.mp3"
+    }
+]

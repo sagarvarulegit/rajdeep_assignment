@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the angle in radians through which a pendulum swings if its length is 75 cm and arc length is 10 cm.",
+        "duration": 8.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q8Scene\\sub_0.mp3"
+    },
+    {
+        "time": 10.85,
+        "text": "The length of the pendulum acts as the radius of the circle, r = 75 cm, and the tip describes an arc length, s = 10 cm.",
+        "duration": 10.16,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q8Scene\\sub_1.mp3"
+    },
+    {
+        "time": 21.0,
+        "text": "Using the arc length formula, s equals r times theta, we solve for theta: s divided by r.",
+        "duration": 8.16,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q8Scene\\sub_2.mp3"
+    },
+    {
+        "time": 29.15,
+        "text": "Plugging in 10 and 75, we simplify the fraction to 2 over 15 radians.",
+        "duration": 5.68,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q8Scene\\sub_3.mp3"
+    }
+]

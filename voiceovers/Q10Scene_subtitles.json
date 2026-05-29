@@ -1,0 +1,20 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the arc length of a circle of diameter 20 cm which subtends 45° at the center.",
+        "duration": 9.2,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q10Scene\\sub_0.mp3"
+    },
+    {
+        "time": 11.183333333333334,
+        "text": "Converting the central angle: 45 degrees is pi over 4 radians.",
+        "duration": 4.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q10Scene\\sub_1.mp3"
+    },
+    {
+        "time": 16.433333333333334,
+        "text": "Now, apply the formula s equals r times theta. Substituting r equals 10 and theta equals pi over 4, we get 5 pi over 2 cm.",
+        "duration": 10.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q10Scene\\sub_2.mp3"
+    }
+]

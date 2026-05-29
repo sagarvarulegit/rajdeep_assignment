@@ -1,0 +1,20 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the length of an arc of a circle of radius 75 cm that spans a central angle of 126 degrees. Take pi = 3.1416.",
+        "duration": 14.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q15Scene\\sub_0.mp3"
+    },
+    {
+        "time": 16.85,
+        "text": "Convert the angle to radians: multiply 126 by pi over 180.",
+        "duration": 4.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q15Scene\\sub_1.mp3"
+    },
+    {
+        "time": 22.1,
+        "text": "Now, apply s equals r times theta. Substituting 75 for radius and using 3.1416 for pi, we get 164.934 cm.",
+        "duration": 15.44,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q15Scene\\sub_2.mp3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: The large hand of a clock is 21 cm long. How much distance does its extremity move in 20 minutes?",
+        "duration": 9.6,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q13Scene\\sub_0.mp3"
+    },
+    {
+        "time": 11.6,
+        "text": "In 20 minutes, the minute hand covers 1 over 3 of a full rotation, which corresponds to 120 degrees or 2 pi over 3 radians.",
+        "duration": 9.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q13Scene\\sub_1.mp3"
+    },
+    {
+        "time": 21.52,
+        "text": "Using s equals r times theta, we multiply the radius 21 by 2 pi over 3, which simplifies to 14 pi.",
+        "duration": 9.12,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q13Scene\\sub_2.mp3"
+    },
+    {
+        "time": 30.64,
+        "text": "Substituting 22 over 7 for pi, the distance moved by the tip is exactly 44 cm.",
+        "duration": 7.12,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q13Scene\\sub_3.mp3"
+    }
+]

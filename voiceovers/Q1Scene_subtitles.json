@@ -1,0 +1,50 @@
+[
+    {
+        "time": 3.0,
+        "text": "Question 1(a)(i): Draw -135 degrees and find its quadrant.",
+        "duration": 6.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_0.mp3"
+    },
+    {
+        "time": 9.216666666666665,
+        "text": "Since the angle is negative, we rotate clockwise by 135 degrees.",
+        "duration": 4.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_1.mp3"
+    },
+    {
+        "time": 14.066666666666665,
+        "text": "This lands in the third quadrant. So, -135 degrees lies in Quadrant III.",
+        "duration": 5.28,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_2.mp3"
+    },
+    {
+        "time": 19.316666666666663,
+        "text": "Question 1(b): Find another positive angle co-terminal with -135 degrees.",
+        "duration": 7.2,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_3.mp3"
+    },
+    {
+        "time": 26.499999999999996,
+        "text": "Rotating counterclockwise to the same terminal arm, we get 360 minus 135, which is 225 degrees.",
+        "duration": 9.04,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_4.mp3"
+    },
+    {
+        "time": 35.516666666666666,
+        "text": "Question 1(a)(ii): Draw 740 degrees and find its quadrant.",
+        "duration": 4.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_5.mp3"
+    },
+    {
+        "time": 40.233333333333334,
+        "text": "Since 740 is positive, we rotate counterclockwise. 740 degrees is two full rounds of 360, plus 20 degrees.",
+        "duration": 9.76,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_6.mp3"
+    },
+    {
+        "time": 49.983333333333334,
+        "text": "This lands in the first quadrant. So, 740 degrees lies in Quadrant I.",
+        "duration": 4.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q1Scene\\sub_7.mp3"
+    }
+]

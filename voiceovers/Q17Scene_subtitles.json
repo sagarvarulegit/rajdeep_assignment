@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Two angles of a triangle are 1/2 and 1/3 radians. Find the third angle in degrees.",
+        "duration": 6.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q17Scene\\sub_0.mp3"
+    },
+    {
+        "time": 8.35,
+        "text": "First, find the sum of the two given angles in degrees. Multiply the sum of 1/2 and 1/3 by 180 over pi.",
+        "duration": 8.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q17Scene\\sub_1.mp3"
+    },
+    {
+        "time": 17.066666666666666,
+        "text": "Using 22 over 7 for pi, the sum of these two angles is approximately 47.73 degrees.",
+        "duration": 7.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q17Scene\\sub_2.mp3"
+    },
+    {
+        "time": 24.96666666666678,
+        "text": "Since the sum of angles in a triangle is 180 degrees, the third angle C is 180 minus 47.73, which is 132 degrees, 16 minutes, and 22 seconds.",
+        "duration": 14.96,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q17Scene\\sub_3.mp3"
+    }
+]

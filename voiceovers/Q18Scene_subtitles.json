@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: The difference between two acute angles of a right-angled triangle is pi over 5 radians. Find the angles in degrees.",
+        "duration": 8.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q18Scene\\sub_0.mp3"
+    },
+    {
+        "time": 10.783333333333333,
+        "text": "Let the two acute angles be A and C. Their difference is pi over 5 radians, which is 36 degrees.",
+        "duration": 7.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q18Scene\\sub_1.mp3"
+    },
+    {
+        "time": 18.599999999999998,
+        "text": "Since the triangle is right-angled, the sum of the two acute angles is exactly 90 degrees.",
+        "duration": 6.56,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q18Scene\\sub_2.mp3"
+    },
+    {
+        "time": 25.15,
+        "text": "Solving this system of equations, adding them gives twice A equals 126, so A is 63 degrees. Subtracting gives C equals 27 degrees.",
+        "duration": 12.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q18Scene\\sub_3.mp3"
+    }
+]

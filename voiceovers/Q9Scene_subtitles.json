@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the radius of a circle where a central angle of 45° makes an arc of length 187 cm. Use pi = 22/7.",
+        "duration": 11.6,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q9Scene\\sub_0.mp3"
+    },
+    {
+        "time": 13.583333333333332,
+        "text": "First, convert 45 degrees to radians by multiplying by pi over 180. Using 22 over 7 for pi, we get 11 over 14 radians.",
+        "duration": 12.32,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q9Scene\\sub_1.mp3"
+    },
+    {
+        "time": 25.9,
+        "text": "Now substitute the arc length and theta into the formula: s equals r times theta.",
+        "duration": 6.48,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q9Scene\\sub_2.mp3"
+    },
+    {
+        "time": 32.35,
+        "text": "Solving for r, we multiply 187 by 14 and divide by 11. This simplifies to 17 times 14, which is 238 cm.",
+        "duration": 12.32,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q9Scene\\sub_3.mp3"
+    }
+]

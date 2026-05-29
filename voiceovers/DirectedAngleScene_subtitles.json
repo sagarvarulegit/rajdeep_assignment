@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.5,
+        "text": "Let's start with the fundamental building block: the Directed Angle.",
+        "duration": 3.68,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\DirectedAngleScene\\sub_0.mp3"
+    },
+    {
+        "time": 6.35,
+        "text": "It consists of a fixed vertex O, an initial arm OA, and a terminal arm OB.",
+        "duration": 7.44,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\DirectedAngleScene\\sub_1.mp3"
+    },
+    {
+        "time": 13.79,
+        "text": "If the terminal arm rotates in a counterclockwise direction, we get a positive angle. Here, it is plus 60 degrees.",
+        "duration": 7.52,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\DirectedAngleScene\\sub_2.mp3"
+    },
+    {
+        "time": 25.540000000000045,
+        "text": "But if the arm rotates in a clockwise direction, we get a negative angle. Here, it is minus 60 degrees.",
+        "duration": 6.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\DirectedAngleScene\\sub_3.mp3"
+    }
+]

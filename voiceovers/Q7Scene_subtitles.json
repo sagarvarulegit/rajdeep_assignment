@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: A wheel makes 360 revolutions in a minute. How many radians does it turn in one second?",
+        "duration": 8.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q7Scene\\sub_0.mp3"
+    },
+    {
+        "time": 10.216666666666667,
+        "text": "First, since one minute is 60 seconds, the wheel makes 360 divided by 60, which is 6 revolutions in one second.",
+        "duration": 8.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q7Scene\\sub_1.mp3"
+    },
+    {
+        "time": 18.933333333333337,
+        "text": "In one full revolution, the wheel rotates through 360 degrees, which is 2 pi radians.",
+        "duration": 6.96,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q7Scene\\sub_2.mp3"
+    },
+    {
+        "time": 26.183333333333437,
+        "text": "Therefore, in six revolutions, the wheel turns 6 times 2 pi, which equals 12 pi radians.",
+        "duration": 7.28,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q7Scene\\sub_3.mp3"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "time": 2.0,
+        "text": "Next, what is an angle in standard position?",
+        "duration": 2.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\StandardPositionScene\\sub_0.mp3"
+    },
+    {
+        "time": 5.85,
+        "text": "An angle is in standard position when its vertex is at the origin, and its initial arm lies along the positive x-axis.",
+        "duration": 9.44,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\StandardPositionScene\\sub_1.mp3"
+    },
+    {
+        "time": 15.29,
+        "text": "Let's draw minus 135 degrees. We rotate clockwise from the initial side, landing in Quadrant 3.",
+        "duration": 8.0,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\StandardPositionScene\\sub_2.mp3"
+    },
+    {
+        "time": 25.04,
+        "text": "Now, let's find a positive angle with the exact same terminal side: 225 degrees. These are called co-terminal angles.",
+        "duration": 8.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\StandardPositionScene\\sub_3.mp3"
+    },
+    {
+        "time": 35.79,
+        "text": "Finally, let's look at 740 degrees. This involves two full rotations of 360 degrees, plus an extra 20 degrees, landing in Quadrant 1.",
+        "duration": 11.36,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\StandardPositionScene\\sub_4.mp3"
+    }
+]

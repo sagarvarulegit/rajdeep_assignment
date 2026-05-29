@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the angle in radians between the hands of a clock at 3:30.",
+        "duration": 5.28,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q16Scene\\sub_0.mp3"
+    },
+    {
+        "time": 7.25,
+        "text": "At 3:30, the minute hand is at 6, and the hour hand is exactly halfway between 3 and 4.",
+        "duration": 5.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q16Scene\\sub_1.mp3"
+    },
+    {
+        "time": 13.166666666666666,
+        "text": "The angle between consecutive clock markings is 30 degrees. The markings between the hands are 3.5 to 4, 4 to 5, and 5 to 6.",
+        "duration": 9.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q16Scene\\sub_2.mp3"
+    },
+    {
+        "time": 22.98333333333333,
+        "text": "To express this in radians, multiply 75 by pi over 180. Simplifying the fraction gives 5 pi over 12 radians.",
+        "duration": 10.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q16Scene\\sub_3.mp3"
+    }
+]

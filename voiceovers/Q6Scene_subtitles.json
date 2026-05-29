@@ -1,0 +1,50 @@
+[
+    {
+        "time": 2.0,
+        "text": "To convert radians to degrees, we multiply by 180 over pi. We will approximate pi as 22 over 7.",
+        "duration": 9.36,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_0.mp3"
+    },
+    {
+        "time": 11.35,
+        "text": "Part (i): Convert 6 radians. Multiply 6 by 180, and then by 7 over 22, yielding approximately 343.636 degrees.",
+        "duration": 15.2,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_1.mp3"
+    },
+    {
+        "time": 26.533333333333335,
+        "text": "Let's convert the decimal part to minutes and seconds: 0.636 degrees times 60 is 38.18 minutes.",
+        "duration": 8.4,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_2.mp3"
+    },
+    {
+        "time": 34.916666666666664,
+        "text": "Next, 0.18 minutes times 60 is approximately 11 seconds. So, 6 radians is 343 degrees, 38 minutes, and 11 seconds.",
+        "duration": 14.0,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_3.mp3"
+    },
+    {
+        "time": 48.9,
+        "text": "Part (ii): Convert 3 over 4 radians. Multiplying by 180 over pi gives approximately 42.95 degrees.",
+        "duration": 11.12,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_4.mp3"
+    },
+    {
+        "time": 60.016666666666666,
+        "text": "Converting the decimal gives 42 degrees, 57 minutes, and 16 seconds.",
+        "duration": 5.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_5.mp3"
+    },
+    {
+        "time": 66.76666666666667,
+        "text": "Part (iii): Convert minus 3 radians. The minus sign remains as is. Multiplying by 180 over pi gives approximately minus 171.818 degrees.",
+        "duration": 13.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_6.mp3"
+    },
+    {
+        "time": 80.58333333333333,
+        "text": "Converting the decimal part gives minus 171 degrees, 49 minutes, and 5 seconds.",
+        "duration": 5.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q6Scene\\sub_7.mp3"
+    }
+]

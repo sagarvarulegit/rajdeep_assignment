@@ -1,0 +1,32 @@
+[
+    {
+        "time": 2.0,
+        "text": "How do we measure angles? There are two main systems: the Sexagesimal system and the Circular system.",
+        "duration": 6.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\MeasurementSystemsScene\\sub_0.mp3"
+    },
+    {
+        "time": 8.24,
+        "text": "In the Sexagesimal system, we use degrees, minutes, and seconds. One degree is 60 minutes, and one minute is 60 seconds.",
+        "duration": 8.32,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\MeasurementSystemsScene\\sub_1.mp3"
+    },
+    {
+        "time": 16.560000000000002,
+        "text": "In the Circular system, we use Radians. One radian is the angle subtended by an arc whose length equals the radius.",
+        "duration": 8.16,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\MeasurementSystemsScene\\sub_2.mp3"
+    },
+    {
+        "time": 31.810000000000002,
+        "text": "We convert between these systems using the relation: pi radians equals 180 degrees. To convert degrees to radians, multiply by pi over 180.",
+        "duration": 12.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\MeasurementSystemsScene\\sub_3.mp3"
+    },
+    {
+        "time": 44.02666666666667,
+        "text": "For example, converting 30 degrees gives us pi over 6 radians.",
+        "duration": 4.64,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\MeasurementSystemsScene\\sub_4.mp3"
+    }
+]

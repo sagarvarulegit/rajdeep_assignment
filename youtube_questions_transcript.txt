@@ -1,0 +1,976 @@
+
+========================================
+=== Q1 Transcript (Approx 00:00 onwards) ===
+========================================
+[00:02] We are starting with uh angle and its
+[00:05] measurement exercise number one.
+[00:10] Okay. So as for the worksheet exercise
+[00:12] number one we'll go ahead with question
+[00:14] number one
+[00:17] a part
+[00:19] the first angle over here is - 135° and
+[00:22] we need to draw this basically. Okay.
+[00:25] Now
+[00:29] x-axis and y axis correct. Now it is -1
+[00:33] 135°. So when it is negative 135° so
+[00:36] this is the starting point zero. So
+[00:38] whenever it is negative you have to
+[00:40] consider the clockwise direction. Okay.
+[00:44] So from here to here it is 90°
+[00:48] and 90 + 45 more
+[00:51] 90 + 45 more will give you - 135°. Okay.
+[00:57] And this is lying in the
+[00:59] third quadrant.
+[01:02] Second one
+[01:06] 740°
+[01:10] starting point. And now this time it is
+[01:12] plus. So we are going to consider the
+[01:15] anticlockwise direction. So one complete
+[01:18] round okay will give me 360°
+[01:23] okay but then we have to reach up to
+[01:25] 740. So we have to take
+[01:29] one more complete round of 360
+[01:33] we'll get 720°. Now we are at 720° which
+[01:36] is same as that of the 0° and we require
+[01:39] 20° more to reach up to 740.
+[01:43] So this will be 20 from the positive
+[01:45] direction of x-axis.
+[01:48] Okay.
+[01:50] So this is uh you know 720° 740°. Okay.
+[01:54] It is in the first quadrant.
+[01:59] Yeah.
+[02:01] B part. Now B part is related to this
+[02:03] diagram only.
+[02:05] If you read the question,
+[02:07] let us read the question. Find another
+[02:10] positive angle whose initial and final
+[02:12] sides are the same as that of - 135° ind
+[02:15] indicate on the same diagram. Okay. So
+[02:18] minus 135°
+[02:21] it is negative. So they're asking what
+[02:23] is the positive of this. So from here
+[02:25] you move
+[02:29] clock anticlockwise to get a positive
+[02:31] angle. So this part is 180° from 0 to
+[02:36] you know here it is 180°.
+[02:38] Now if this is 45° we had done that
+[02:42] while calculating minus 135°. So the
+[02:45] remaining angle will also be 45°. So it
+[02:48] will be this 180 this 180 plus this 45
+[02:55] which will give me
+[02:57] 225°.
+[03:01] Okay.
+[03:05] Yeah.
+
+========================================
+=== Q2 Transcript (Approx 03:09 onwards) ===
+========================================
+[03:09] Second question.
+[03:12] Question number two.
+[03:14] Now theta lies in the second quadrant.
+[03:18] Okay. Where theta by2 will lie.
+[03:22] So second quadrant the angles in the
+[03:25] second quadrant lie from 90 to
+[03:29] 180.
+[03:31] So theta by 2
+[03:33] divide this just by two. So theta by2
+[03:37] will lie between 45 to 90. That is the
+[03:39] first quadrant.
+[03:41] Okay.
+[03:44] Again theta lies in the second quadrant.
+[03:46] So theta lies between 90 to 180 2A. So
+[03:50] just multiply this.
+[03:55] So
+[03:57] 2A
+[03:58] will lie between
+[04:01] 180 to 360.
+[04:04] Okay. So it will be in the third or the
+[04:06] fourth quadrant.
+[04:09] Right?
+[04:11] Third one.
+[04:14] Now theta lies in the second quadrant
+[04:15] that is basic for all
+[04:18] negative.
+[04:22] So when we multiply with a negative
+[04:24] number then equality changes.
+[04:31] Okay. Negative data. So it is92.
+[04:35] 180 orative 180 to90. Now see
+[04:39] negative starts in this direction.
+[04:42] So this is 90.
+[04:45] Okay.
+[04:48] And from here 90 more. So this will be -
+[04:51] 180.
+[04:53] So minus theta will lie over here. So
+[04:56] it's the third quartile.
+[04:58] Fine.
+
+========================================
+=== Q3 Transcript (Approx 05:00 onwards) ===
+========================================
+[05:00] Let's go to the third question.
+[05:04] three sub question one
+[05:07] 240° we have to convert this into
+[05:09] radians.
+[05:11] So it will be 240 into
+[05:15] 5 by 360
+[05:18] cancel out the zeros reduce by 12 to
+[05:21] what you comfortable with.
+[05:25] So this will be 2 by 3
+[05:31] radians.
+[05:47] Okay.
+[05:57] Next one.
+[06:01] - 315 d.
+[06:04] So - 315 into by
+[06:09] oh
+[06:10] by 180 it should be sorry.
+[06:15] Okay. I just made a small error. Okay,
+[06:18] it should be p by 180.
+[06:21] Converting into radians, it should be
+[06:22] p by 180.
+[06:29] Okay. So yes,
+[06:34] this will be 4 pi by 3. So minus 315
+[06:39] into
+[06:41] 5 by 180 here also converting into
+[06:44] radians. So here by mistake I had
+[06:47] written 360 it should be 180. Okay.
+[06:49] Yeah. So you can reduce this. This will
+[06:53] be - 7 by 4. You can go on reducing
+[06:55] this with five.
+[06:57] Clear
+[07:00] 57 70. You can do it on your own.
+[07:04] Fourth one.
+[07:07] Express the following angles into
+[07:08] degrees.
+
+========================================
+=== Q4 Transcript (Approx 07:12 onwards) ===
+========================================
+[07:12] So sub question one
+[07:15] 5i by 3. Now this is in radians. We
+[07:17] have to convert this into degrees.
+[07:20] 5 by 5 by 3 into
+[07:23] 180 by 5.
+[07:25] Okay. So 5i will get cancelled
+[07:28] and this will be 300°.
+[07:32] 3 1 are 3 6 are 60 into 5 is 300°. Okay,
+[07:36] I'll solve the third one.
+[07:40] Minus
+[07:42] 24 by 5
+[07:46] by 5 into
+[07:49] 185 by 5.
+[07:51] Okay.
+[07:54] So, this will be
+[07:57] - 864° if you solve
+[08:00] using a calculator.
+[08:03] Correct.
+
+========================================
+=== Q5 Transcript (Approx 08:07 onwards) ===
+========================================
+[08:07] Now in question number five, let's solve
+[08:08] question number five sub question three
+[08:10] and four because 1 and two are quite
+[08:12] simple. Okay.
+[08:15] Question number five sub question three.
+[08:20] The angle over there is 40°
+[08:24] 20 minutes.
+[08:27] So first convert this entire thing into
+[08:29] degrees.
+[08:30] So 40 +
+[08:33] 20 upon 60.
+[08:36] Okay. 40 + 20 upon 60.
+[08:42] So that that will be 40 + 1 upon 3. So
+[08:46] that is going to be 121 upon 3°. Now
+[08:50] convert this degrees into radians.
+[08:52] Multiply by by 180. Okay.
+[08:59] So we cannot really reduce 121 upon 3
+[09:02] into 180.
+[09:04] So 121 by
+[09:07] 540 will be the answer.
+[09:11] Fourth one
+[09:15] - 37°
+[09:17] 30 minutes.
+[09:20] So
+[09:22] take that minus outside
+[09:26] - 37 +
+[09:30] 30 upon 60 that minutes I'm converting
+[09:32] it into degrees.
+[09:37] Okay, a single dash indicates minutes
+[09:41] plus 1 by 2° which is equal to
+[09:46] - 5 by
+[09:49] uh
+[09:51] okay you can just multiply this
+[09:57] 75 by2°
+[10:00] 75 by2 into
+[10:03] 5 by 180
+[10:05] Okay.
+[10:07] So if you reduce this it will be - 5 by
+[10:11] 5 by 24.
+[10:17] Okay.
+
+========================================
+=== Q6 Transcript (Approx 10:23 onwards) ===
+========================================
+[10:23] Yeah. Now question number six.
+[10:26] Find the degree measure of the
+[10:27] corresponding radian measures.
+[10:31] Now the first one is
+[10:35] 6 radians.
+[10:37] So this is radians that's why I'm
+[10:39] writing a c over there multiplied with
+[10:42] 180 by pi. So now this is degrees. Now
+[10:46] here we are going to take pi as 2x 7.
+[10:55] The seven will go on the top.
+[11:00] Now you having your calculators for
+[11:02] this. You can use
+[11:05] the calculator for this calculation.
+[11:10] 343.63°.
+[11:14] Now further you have to convert this
+[11:16] degrees into minutes and seconds. So
+[11:18] that will happen with a click of a
+[11:20] button on your calculator.
+[11:22] Okay. So in the calculator what you can
+[11:24] do is uh
+[11:26] see
+[11:31] beneath the root sign beneath the root
+[11:34] sign
+[11:35] I hope you are able to locate where is
+[11:37] the root sign square root sign in the
+[11:40] calculator beneath the root sign there
+[11:41] is this button
+[11:43] degree minutes and seconds okay just
+[11:46] beneath the root sign
+[11:49] okay you have to just press that you'll
+[11:52] will directly automatically get uh the
+[11:54] answer into degrees, minutes and
+[11:55] seconds.
+[11:57] Okay.
+[11:59] So that button is uh
+[12:02] this
+[12:05] beneath the root side that that button
+[12:07] was
+[12:10] a single dash and double dash. This is
+[12:12] degrees,
+[12:14] this is minutes and this is seconds.
+[12:17] Okay. Okay. So this button you have to
+[12:18] click
+[12:20] after this calculation just click this
+[12:22] button. Automatically you'll get into
+[12:25] degrees, minutes and seconds. Okay.
+[12:27] Yeah. Second one
+[12:32] 3x4 radian.
+[12:35] So 3x4 into
+[12:37] 180 by pi. So this is going to be
+[12:39] degrees
+[12:42] 22x 7 over here.
+[12:46] Okay. denominator's denominator that is
+[12:48] 7 will become the numerator
+[12:51] and this will be 4 into 22°.
+[12:54] Now this calculation you can of course
+[12:56] use a calculator for this.
+[13:00] Okay,
+[13:02] whatever answer you get you solve this
+[13:05] whatever answer you get that will be a
+[13:07] decimal answer and then for further
+[13:09] convert this into degrees, minutes and
+[13:11] seconds with a click of a button on the
+[13:14] calculator.
+[13:15] Okay, this particular one.
+[13:19] Next one.
+[13:22] Third
+[13:24] minus 3 radians.
+[13:28] So - 3 into 180 by 5
+[13:31] - 3 into 180 by 5.
+[13:34] Okay.
+[13:36] This is degrees now
+[13:39] into 180 upon 22x 7.
+[13:44] Okay.
+[13:51] So what you're going to do is you're
+[13:52] going to take that seven on the top
+[13:57] 22 down. So solve this entire
+[13:59] calculation using a calculator. You'll
+[14:01] get something in degrees and then
+[14:03] further convert this into degrees,
+[14:05] minutes and seconds. Minus sign will
+[14:07] remain as it is throughout the
+[14:08] calculation. So you don't have to worry
+[14:10] about put minus sign over here.
+[14:13] Okay.
+[14:22] Yeah. Let's go to the next problem.
+
+========================================
+=== Q7 Transcript (Approx 14:24 onwards) ===
+========================================
+[14:24] Question number seven.
+[14:33] Okay. A wheel makes 360 revolutions in a
+[14:36] minute.
+[14:39] Okay.
+[14:42] So in 1 minute it makes
+[14:44] 360 revolutions.
+[14:48] So 1 minute is nothing but 60 seconds.
+[14:51] That is 360 revolutions.
+[14:55] They're asking through how many radians
+[14:57] does it
+[14:59] turn in 1 second. So in 1 second how
+[15:02] many revolutions are made? It will be
+[15:04] 360 / 60 which is equal to 6
+[15:07] revolutions.
+[15:10] Okay.
+[15:13] Right now in one revolution,
+[15:19] this is a wheel.
+[15:21] Okay. If this is the radius, in one
+[15:25] complete revolution,
+[15:28] it turns by 360°.
+[15:32] So in one revolution
+[15:37] the trace of the angle is
+[15:40] 360°.
+[15:43] Okay. And 360° is nothing but you
+[15:45] convert this into radians because the
+[15:47] answer is required in radians. 2 pi by
+[15:50] 180. So this is 2 pi 2 pi radians. So in
+[15:54] six revolutions.
+[15:59] So this will be 6 into 2 pi
+[16:02] which will be 12 pi radians. Okay.
+[16:07] I hope you understood the solution.
+
+========================================
+=== Q8 Transcript (Approx 16:12 onwards) ===
+========================================
+[16:12] Question number eight.
+[16:15] Now before we uh start with this
+[16:18] particular question.
+[16:20] Okay. Let us understand few concepts.
+[16:26] This is the center
+[16:29] radius. The center central angle is
+[16:31] theta over here.
+[16:33] Okay.
+[16:35] The angle traced by the c center c
+[16:37] center angle theta is
+[16:40] nothing but
+[16:45] the angle traced over here by at the
+[16:47] center is nothing but the center angle
+[16:48] which is theta. Okay.
+[16:51] And this red colored part which I've
+[16:53] drawn that is S which is the minor arc
+[16:57] in this particular case. So the length
+[16:59] of the ark is equal to
+[17:03] is equal to s is equal to r r r r r r r
+[17:05] r r r r r r r r r r r r r r into theta
+[17:05] where theta should be in radians always
+[17:08] and the area of this particular sector
+[17:12] area of this particular sector should be
+[17:16] r into r² theta where theta should be in
+[17:20] radians.
+[17:21] So length of the ark s is the length of
+[17:24] the ark and area in both the
+[17:27] calculations theta should be in radians.
+[17:30] So let's start with uh question number
+[17:32] eight.
+[17:37] Okay. Question number eight.
+[17:42] Find the angle in radians. Find the
+[17:45] angle in
+[17:49] radians.
+[17:51] through which the pendulum swings if its
+[17:53] length is 75 cm.
+[17:55] So there is a pendulum
+[17:57] its length is 75 cm.
+[18:03] Okay, first part I'm doing and the tip
+[18:06] the tip is over here it describes
+[18:10] an arc of 10. So the pendulum is moving
+[18:15] on to and from
+[18:18] point A to point B.
+[18:20] So this arc length
+[18:23] is 10. So s is equal to 10. And we need
+[18:26] to find out the central angle. So s is
+[18:28] equal to r theta.
+[18:30] R length is given 10. R is also known to
+[18:33] us 75 into theta. So theta is equal to
+[18:38] 10 upon 75.
+[18:44] So 2x 50. Okay. The answer should be in
+[18:47] radians.
+[18:49] Right?
+[18:50] Second sub you can do.
+
+========================================
+=== Q9 Transcript (Approx 18:56 onwards) ===
+========================================
+[18:56] Let's go to question number nine.
+[19:01] Okay. Find the radius of a circle in
+[19:03] which the central angle of 45° makes an
+[19:06] arc of length 187 cm.
+[19:11] Now the central angle theta is equal to
+[19:13] 45°. We'll convert it into radians
+[19:17] into by
+[19:20] 180
+[19:23] 45 1 are 45 4 are
+[19:27] so 1x 4 pi
+[19:29] 1x4 into 22 by 7.
+[19:34] Okay. So that is
+[19:40] by 14.
+[19:46] Okay. Then uh length of the ark s is
+[19:49] equal to 185 cm. They're asking of the
+[19:52] radius.
+[19:55] And for this calculations radius uh
+[19:57] sorry length of the ark calculations r
+[20:00] should be in radians. So s= to r
+[20:03] x= 187
+[20:06] r is not known and this is 11 by 14.
+[20:11] So r is equal to
+[20:13] 187 into 14 upon 11.
+[20:17] Okay.
+[20:20] So 11 1 are 11.
+[20:23] So this will be 17 into 14 which is
+[20:25] equal to 238
+[20:29] cm.
+[20:30] use proper units.
+[20:33] Okay.
+
+========================================
+=== Q10 Transcript (Approx 20:36 onwards) ===
+========================================
+[20:36] Yeah. Question number 10 is quite
+[20:37] simple. You can do it for self study
+[20:40] because uh r is given sorry diameter is
+[20:42] given you can get r radius and the angle
+[20:46] at the center is given from the central
+[20:48] angle you can just convert the central
+[20:50] angle into radians and then calculate s
+[20:54] which is length of the ark. Okay s is
+[20:56] equal to r theta. So 10th problem is for
+[20:58] self study.
+[21:01] 11th one.
+[21:04] An engine is traveling along a circular
+[21:06] railway track of radius 1500s. 1500 with
+[21:11] a speed of
+[21:15] 60 km/h.
+[21:20] Okay.
+[21:21] Find the angle in degrees turned by the
+[21:23] engine in 10 seconds. So in 1 hour
+[21:28] the distance covered by the train is
+[21:31] 60 km.
+[21:34] Okay. And that's a circular track. It's
+[21:37] a circular track. So it's a curve.
+[21:40] In 1 hour 60 km are covered up.
+[21:44] We require the angle turned by the
+[21:47] engine in 10 seconds. So 60 1 hour that
+[21:51] is equivalent to 60 minutes.
+[21:54] So that is equal to 60 km.
+[22:01] I think the radius
+[22:03] is,500
+[22:05] m.
+[22:06] Okay, that m is not mentioned over
+[22:09] there. So I think it should be mters.
+[22:13] Okay.
+
+========================================
+=== Q11 Transcript (Approx 22:15 onwards) ===
+========================================
+[22:22] Yeah.
+[22:26] So I'll just convert this kilometer into
+[22:28] meters.
+[22:32] So into,000
+[22:34] m.
+[22:38] So 1 minute
+[22:43] 60 into 1,000 upon 60 m. So 1,000 m
+[22:49] 1 minute is equal to 60 seconds.
+[22:53] Okay.
+[22:56] So in 60 seconds,000 m are covered off.
+[22:58] So in 10 seconds require the calculation
+[23:01] for 10 seconds, right?
+[23:05] So 1,000 into 10 upon 60
+[23:08] m. So that is equal to
+[23:12] 500 upon 3 m.
+[23:15] That much distance is covered.
+[23:18] Okay. So this is nothing but a length
+[23:22] because if you read a question the
+[23:23] engine is traveling along a circular
+[23:26] track.
+[23:28] So this is s
+[23:30] S is equal to R theta
+[23:33] we require theta
+[23:35] in degrees they are asked for. Okay. So
+[23:37] that we we get by this calculation it
+[23:40] will be in radians.
+[23:42] So s is equal to 500 by 3. The radius is
+[23:47] 1,500
+[23:49] and this is theta.
+[23:51] So theta is equal to 500
+[23:56] upon 3 into 1500.
+[24:02] Okay.
+[24:04] So this will be 1x 9 radians. Now 1x 9
+[24:08] we have to convert this into degrees.
+[24:13] So multiply by
+[24:17] 180 by pi.
+[24:19] So this is equal to
+[24:24] 20 by
+[24:27] degrees. Okay. Now they're not asking
+[24:29] you to take pi as 22 by 7 or anything
+[24:31] else. So you can just give your answer
+[24:33] like this.
+[24:35] Okay.
+[24:37] Yeah,
+[24:42] fine. Let's go to the next problem.
+
+========================================
+=== Q12 Transcript (Approx 24:46 onwards) ===
+========================================
+[24:46] Question number 12.
+[24:50] If the arcs of the same length in two
+[24:53] circles
+[24:55] subend angles of 65° and 110° at their
+[24:58] respective centers,
+[25:01] find the ratio of the rad. So basically
+[25:04] there are two circles.
+[25:09] Okay. This is theta_1.
+[25:13] This is theta_2.
+[25:16] Okay.
+[25:19] R1
+[25:21] r2.
+[25:23] Okay. Radi of different circles. Two
+[25:26] different circles are there.
+[25:28] And we require ratio of the of the
+[25:30] radius that is R1 upon R2.
+[25:34] Okay. But then
+[25:38] arcs of the same length.
+[25:41] So this arc this length and this length
+[25:45] it might not appear to be same from the
+[25:47] diagram but then it is same given in the
+[25:49] question. Okay. So S_sub_1 to S_sub_2
+[25:53] they're giving S1 equal to S_sub_2. They
+[25:56] have given this. We are not assuming.
+[26:00] So R1 theta_1
+[26:02] R2 theta_2.
+[26:06] So R1 into theta 1 theta 1 is 65°
+[26:09] converted into radians multiply by
+[26:12] by 180
+[26:14] R2 into theta_2 what is theta_2? Theta_2
+[26:17] is 110 into
+[26:20] by 180.
+[26:23] Clear?
+[26:25] So by 180 will get cancelled.
+[26:31] R1 upon R2
+[26:33] 1 0 upon 65.
+[26:37] Okay. Divisible by 5 22 upon 13. So the
+[26:42] ratio is 22 upon 13. Okay. Ratio is 22
+[26:45] upon 13.
+
+========================================
+=== Q13 Transcript (Approx 26:47 onwards) ===
+========================================
+[26:47] Let's go to the next problem. Question
+[26:49] number 13.
+[26:55] Large hand of a clock is 21 cm long.
+[27:02] How much distance does its extremity
+[27:04] move in 20 minutes?
+[27:08] Okay.
+[27:16] So now see let let's take a rough
+[27:18] diagram.
+[27:20] :00
+[27:39] Okay. So now let us assume
+[27:45] suppose it is 8:00 p.m.
+[27:48] So this is the hour's end and this is
+[27:50] the large end which is the minutes end.
+[27:55] Okay.
+[27:57] I just draw the large end with a
+[27:58] different color.
+[28:01] Hours end is on eight assuming just for
+[28:04] as an example.
+[28:06] And the blue colored hand is the large
+[28:08] hand which is the minute hand.
+[28:11] So in 20 minutes
+[28:14] after 20 minutes
+[28:18] the large hand will move from 12 to
+[28:22] 4 it will come over here.
+[28:28] So this angle this particular angle we
+[28:31] need to find out. Okay. Now each part
+[28:35] over here, each part, each part is 30°.
+[28:38] Each part is 30°.
+[28:41] Each part is 30°.
+[28:44] Okay?
+[28:46] So in 20 minutes,
+[28:48] the angle will be 30 + 30 + 30 + 30
+[28:54] that will be
+[28:59] okay.
+[29:02] Right? And they're asking this this
+[29:05] particular len they are asking this
+[29:07] particular length.
+[29:09] So that's an arc. So s is equal to r
+[29:12] theta. Convert theta into radians.
+[29:17] And r is what?
+[29:19] r is
+[29:21] 21.
+[29:23] So you have r you have theta. Can use
+[29:26] this formula.
+[29:28] Okay.
+[29:36] Fine.
+[29:37] Next problem.
+
+========================================
+=== Q14 Transcript (Approx 29:41 onwards) ===
+========================================
+[29:41] Question number 14. Let's go to the
+[29:43] first sub question.
+[29:47] Find the length. Find the angle in
+[29:49] degrees through which a pendulum swings
+[29:52] if its length is 50 cm and the tip
+[29:56] describes an arc of length 10 cm.
+[30:00] Okay.
+[30:07] So we require the angle in degrees.
+[30:14] So now S is equal to R theta.
+[30:18] Arc length is L.
+[30:22] Length of the pendulum becomes the
+[30:24] radius. So that is equal to 50.
+[30:30] into theta. So theta is equal to 10 upon
+[30:33] 50 which is 1 upon 5 radians 1 upon 5
+[30:37] into
+[30:38] 180 by 5°.
+[30:40] So this is 36
+[30:43] 36 upon 22 by 7.
+[30:46] So 36 into 7 by
+[30:49] 22°.
+[30:55] Okay.
+[30:58] So this many degrees will be there.
+[31:05] You can convert this and then further
+[31:07] you can you know convert it into
+[31:10] degrees, minutes and seconds by your
+[31:13] calculator. There's one single button
+[31:15] click by which you can get it into
+[31:18] degrees, minutes and seconds. Okay. So
+[31:20] second and third sub question is for
+[31:22] self study.
+[31:25] Yeah.
+
+========================================
+=== Q15 Transcript (Approx 31:28 onwards) ===
+========================================
+[31:28] Let's go to question number 15.
+[31:33] Question number 15.
+[31:36] Find the length of an arc of a circle of
+[31:38] radius 75 cm
+[31:41] that spans an angle of 126°. Now again
+[31:44] this is very simple problem. R is given
+[31:47] and theta is given. Convert theta into
+[31:50] radians. And while converting take pi as
+[31:54] 3.1416 okay and then you can calculate s
+[31:59] is equal to r theta. So r value and
+[32:01] theta values are given. The only thing
+[32:04] is convert theta into radians
+[32:06] and take pi as 3.1416. You'll get the
+[32:09] answer.
+
+========================================
+=== Q16 Transcript (Approx 32:11 onwards) ===
+========================================
+[32:11] Question number 16.
+[32:16] Now the time is 3:30.
+[32:18] We need to find out the angle between
+[32:20] the
+[32:21] hands.
+[32:24] Again, a clock.
+[32:33] Draw a bit diagram.
+[32:37] Yeah.
+[32:46] So when the time is 3:30
+[32:49] the hour's hand will be slightly
+[32:53] more than three.
+[32:56] Okay. And the minutes hand
+[32:59] will be at six. The blue color hand is
+[33:01] the minute hand. The large hand.
+[33:05] Okay. And the hours spent will be
+[33:08] slightly more than
+[33:10] three or maybe in between 3 and 4
+[33:12] because it is 330 right? So exactly in
+[33:14] between 3 and 4. Okay. So we need to
+[33:17] find out this angle this particular
+[33:19] angle.
+[33:22] So this angle over here is 30. This is
+[33:24] 30 because every part is 30° over here.
+[33:28] We are interested to find out this
+[33:29] particular angle.
+[33:31] Just use a different color.
+[33:34] And this particular angle once this
+[33:36] green colored angle is known we can add
+[33:37] to this 230s.
+[33:40] Okay.
+[33:41] Yeah.
+[33:43] Now see
+[33:46] in 1 hour
+[33:50] we are speaking about the hour.
+[33:55] Okay. In 1 hour
+[33:57] in 1 hour the orange hand will move
+[34:01] 30°. I'll explain this. So this red
+[34:05] colored
+[34:06] part is the hours end. So in 1 hour move
+[34:10] from 3 to 4. So this is only 30°.
+[34:14] Okay.
+[34:17] So 60 minutes calculation is 30°.
+[34:22] Okay. But then we require calculation
+[34:23] for 20 minutes. Sorry for 30 minutes
+[34:26] because the time is 3:30.
+[34:29] See 1 hour is 60 minutes. Okay.
+[34:32] So in 60 minutes it will move at an
+[34:35] angle of 30°. So in 30 minutes it will
+[34:37] be 30 into 30 upon 60
+[34:43] 15°. Okay.
+[34:46] So in 30 minutes in 30 minutes the hour
+[34:49] will move from
+[34:53] 3 to 4 at an angle of 15°. Now try and
+[34:56] understand this part very clearly.
+[35:00] Okay.
+[35:03] So this particular part this this dot
+[35:07] this particular part is 15°.
+[35:11] Okay. So what is the answer of the green
+[35:13] colored part? The green colored part
+[35:15] will be this part will be 30 - 15
+[35:20] because this entire thing is 30 which
+[35:22] may say 15.
+[35:25] Okay. So 30 - 15. So this will be only
+[35:27] 15. and the green colored part will be
+[35:29] 15.
+[35:31] Okay.
+[35:34] So the total angle between the hours and
+[35:36] the minutes end will be 30° + 30° + 15°.
+[35:43] Okay. So this plus this plus this part
+[35:46] 15°.
+[35:48] So that is equal to 75°.
+[35:52] If they're asking you in radians, you
+[35:53] can do that. But then this is the
+[35:56] answer.
+[35:59] Okay.
+[36:03] Next
+
+========================================
+=== Q17 Transcript (Approx 36:06 onwards) ===
+========================================
+[36:06] question number 17.
+[36:10] The circular measures of two angles of a
+[36:12] triangle are 1 1x 2 and 1x 3.
+[36:16] Okay. So
+[36:22] this is half rad. This is 1x3 radium.
+[36:27] And the third one you need to find out
+[36:28] in degrees. So A B C third one you need
+[36:33] to find out in degrees.
+[36:37] Okay.
+[36:40] Now angle A
+[36:43] 1x3 radian
+[36:45] 1x3 into 180 by 5. You can do that
+[36:49] and then you can put
+[36:52] as 22x 7.
+[36:57] Okay.
+[37:00] So 180 into 7
+[37:02] 3 into 22°
+[37:05] correct
+[37:07] don't once you get this in degrees now
+[37:09] don't convert this into minutes and
+[37:11] seconds just wait
+[37:14] angle B
+[37:16] 1x2 radians convert this also into
+[37:19] degrees using the similar process again
+[37:21] don't convert this into minutes and
+[37:23] seconds now angle A plus angle B plus
+[37:27] angle C is equal to 180°
+[37:30] You know this, you know this, you'll get
+[37:31] a value of angles in degrees. Okay. Now
+[37:34] once you get this in degrees, then then
+[37:36] you can convert this into minutes and
+[37:38] seconds using this particular button
+[37:42] on that calculator.
+[37:44] Okay.
+[37:45] So after this just click this, you'll
+[37:47] get the exact answer in degrees, minutes
+[37:49] and seconds. Fine.
+
+========================================
+=== Q18 Transcript (Approx 37:54 onwards) ===
+========================================
+[37:54] Question number 18.
+[38:03] Question number 18.
+[38:09] The difference between two acute angles
+[38:10] of a right angle triangle 5.
+[38:15] So there is a right angle triangle.
+[38:22] There are two angles, right? The
+[38:25] difference between these two angles is 5
+[38:28] by 5.
+[38:32] Okay.
+[38:34] Find these angles in
+[38:37] degrees. We need to find out angle A and
+[38:39] C. Okay. Now, angle A plus angle E plus
+[38:45] angle C is equal to 180°. Angle B is
+[38:48] 90°.
+[38:52] So angle A plus angle C will be 90°.
+[38:56] Okay. So angle A plus angle C is equal
+[38:59] to 90°. 90° is
+[39:03] uh okay. So basically
+[39:05] can convert this into degrees by
+[39:09] 18
+[39:12] that is.
+[39:16] Okay.
+[39:17] Now what you do is
+[39:22] you get
+[39:25] okay
+
+========================================
+=== Q19 Transcript (Approx 39:29 onwards) ===
+========================================
+[39:29] 19th question. Question number 19.
+[39:37] The angles of our triangle are in AP.
+[39:42] Okay.
+[39:46] and the great greatest angle is double
+[39:48] the least.
+[39:50] Now first of all uh let the three angles
+[39:52] be a b and c.
+[39:55] So let
+[39:57] angle a be suppose x
+[40:02] angle will be 2x angle b will be 3x
+[40:05] because it's a now so 2x - x is x 3x - x
+[40:09] is x the common x it's a I'm assuming
+[40:14] this
+[40:16] the greatest angle is double the least
+[40:19] so the greatest angle angle c is double
+[40:23] of the angle
+[40:26] is given.
+[40:27] So greatest angle
+[40:30] 3x
+[40:31] and this all measures are in degrees.
+[40:33] Okay.
+[40:49] is the least
+[40:55] we need to find out all the angles in
+[40:58] circular measure.
+[41:09] Okay.
+[41:14] So now see
+[41:16] angle A plus angle B plus angle C is
+[41:18] equal to
+[41:21] 180°.
+[41:23] So X° + 2X + 3X
+[41:26] is equal to 180.
+[41:29] So 6X is equal to 180.
+[41:33] So X will be 30°.
+[41:37] Right?
+[41:42] And uh
+[41:49] if x is 30,
+[41:55] angle a is equal to 30°,
+[41:58] angle b is equal to 2 into 30 that is
+[42:00] 60.
+[42:02] Thank you. Okay. But in this condition
+[42:05] is not getting you know satisfied over
+[42:07] here. the greatest angle is double the
+[42:09] waist.
+[42:11] Fine. So I think I think this particular
+[42:13] approach we should not follow for this
+[42:15] particular problem. Okay. Because see
+[42:18] the greatest angle is 90 and the
+[42:19] smallest angle is 30. So it is not
+[42:22] exactly the double of it.
+[42:25] Okay. So let's all follow the approach.
+[42:32] So let the greatest angle be.
+[42:36] So angle A, angle B, angle C is there.
+[42:40] This is let let us assume this C is the
+[42:44] greatest angle
+[42:50] and this is the least.
+[42:53] So angle C
+[42:57] is couple of angle A.
+[43:01] So let angle a
+[43:04] be x.
+[43:07] Okay.
+[43:12] Angle c will be
+[43:16] 2x because 2 into
+[43:19] angle a we are considering it to be a
+[43:23] right.
+[43:29] Okay. Okay. So this much data we have
+[43:34] angle A plus angle B plus angle C is
+[43:37] equal to 180°.
+[43:41] So X +
+[43:43] B +
+[43:50] =
+[43:52] 18X.
+[43:56] Okay.
+[44:00] Now A B C
+[44:02] are in AP.
+[44:06] So angle B minus let's write angle
+[44:10] angle B minus angle Ale
+[44:14] B. Okay. So angle
+[44:20] second term minus first term is equal to
+[44:22] third term minus second term. So twice
+[44:25] angle B is equal to M plus angle C.
+[44:31] So this gives me
+[44:34] twice angle P. Angle B is what?
+[44:38] 180 - 3X. Angle A is X. Angle C is 2X.
+[44:44] Therefore 360 -
+[44:47] 6X is equal to 3X. Therefore X is equal
+[44:51] to 360.
+[44:53] X = 40.
+[44:57] Okay.
+[45:00] So angle Ale
+[45:04] X
+[45:05] 40
+[45:07] angle B
+[45:10] 180 - 3X 180 - 3 into 40
+[45:22] angle C
+[45:26] X
+[45:29] for 2 into
+[45:31] 40
+[45:34] is 80. So now here in this particular
+[45:38] solution see that particular thing is
+[45:39] getting satisfied that
+[45:42] C is twice of 8.
+[45:47] Okay. In the earlier solution we tried
+[45:49] but then you know this was not a double
+[45:52] of this. So don't consider this
+[45:54] solution.
+[45:56] Okay. So now here you can convert this
+[45:58] into radians if they're asking you in
+[45:59] radius.
+[46:01] Fine.
+[46:05] That was your question number 19.
+
+========================================
+=== Q20 Transcript (Approx 46:17 onwards) ===
+========================================
+[46:17] Okay. Let's go to question number 20.
+[46:34] Yeah.
+[46:43] Question number 20. The diameter of the
+[46:45] sun
+[46:46] supposing that it subends an angle of
+[46:49] 32° at the eye of an observer.
+[46:53] We need to estimate the diameter. Okay.
+[46:55] Given that the distance of the sun is 91
+[46:58] into 10 to 6 kilometers.
+[47:01] So the sun is over here and the observer
+[47:03] is is
+[47:06] okay.
+[47:12] So this angle is equal to
+[47:16] 32 minutes.
+[47:23] So for 2 minutes 102°
+[47:27] 32 by 16
+[47:31] okay
+[47:34] 16 upon 30
+[47:46] 8 by 15° but then
+[47:52] 8 by
+[48:00] What?
+[48:10] 20.
+[48:17] So in this calculate this value just for
+[48:20] a while do
+[48:29] 8 into 7
+[48:41] 30
+[48:43] 54 radians This is
+[48:47] okay.
+[48:49] So this is the angle
+[48:52] at the which is subended towards the
+[48:56] observer.
+[48:58] The distance of the sun is 91 into 10 to
+[49:00] 6. Okay. Now sun is too far from the
+[49:04] observer.
+[49:06] So we'll consider this thing as this 91
+[49:09] into 10 to 6 as the radius
+[49:13] radius of this particular uh sector
+[49:18] and we need to find out the
+[49:21] diameter
+[49:26] this particular part. Now since it is
+[49:28] too far the sun as an object is very far
+[49:31] from the observer. This diameter itself
+[49:34] is the length of the arc. So s= r theta
+[49:41] where radius is
+[49:43] 91 into 10 and this is 30.54.
+[49:48] So let's calculate this
+[49:56] 91 into 30.54.
+[50:20] Okay. So you can calculate this and get
+[50:22] the answer.

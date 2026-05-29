@@ -1,0 +1,32 @@
+[
+    {
+        "time": 2.0,
+        "text": "Recall that 1 degree equals 60 minutes. We must first convert the minutes to a fraction of a degree.",
+        "duration": 6.88,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q5Scene\\sub_0.mp3"
+    },
+    {
+        "time": 8.85,
+        "text": "Part (iii): Let's convert 40 degrees and 20 minutes. 20 minutes is 20 over 60 degrees, which is 1 over 3 degrees.",
+        "duration": 9.44,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q5Scene\\sub_1.mp3"
+    },
+    {
+        "time": 18.266666666666666,
+        "text": "Now multiply 121 over 3 degrees by pi over 180. This gives 121 pi over 540 radians.",
+        "duration": 9.68,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q5Scene\\sub_2.mp3"
+    },
+    {
+        "time": 27.916666666666664,
+        "text": "Part (iv): Convert minus 37 degrees and 30 minutes. 30 minutes is half a degree, giving minus 75 over 2 degrees.",
+        "duration": 9.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q5Scene\\sub_3.mp3"
+    },
+    {
+        "time": 37.733333333333334,
+        "text": "Multiplying minus 75 over 2 degrees by pi over 180 simplifies to minus 5 pi over 24 radians.",
+        "duration": 10.08,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q5Scene\\sub_4.mp3"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "time": 2.0,
+        "text": "We can relate the radius, arc length, and central angle in radians using two key formulas.",
+        "duration": 7.44,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_0.mp3"
+    },
+    {
+        "time": 9.416666666666666,
+        "text": "The arc length s is equal to r times theta, and the sector area A is half r-squared times theta. Remember, theta must be in radians!",
+        "duration": 12.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_1.mp3"
+    },
+    {
+        "time": 22.199999999999996,
+        "text": "Let's apply this to a clock problem from our exercise sheet.",
+        "duration": 3.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_2.mp3"
+    },
+    {
+        "time": 26.449999999999996,
+        "text": "A clock hand is 21 centimeters long. How far does the tip move in 20 minutes?",
+        "duration": 6.48,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_3.mp3"
+    },
+    {
+        "time": 33.199999999999996,
+        "text": "In 20 minutes, the hand covers one-third of a full rotation, which is 2 pi over 3 radians.",
+        "duration": 7.76,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_4.mp3"
+    },
+    {
+        "time": 40.949999999999996,
+        "text": "Using s equals r times theta, we multiply 21 by 2 pi over 3, giving us 14 pi, which is approximately 44 centimeters.",
+        "duration": 9.92,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\FormulasScene\\sub_5.mp3"
+    }
+]

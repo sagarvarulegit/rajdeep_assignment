@@ -1,0 +1,20 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: If arcs of same length subtend 65° and 110° at the centers of two circles, find the ratio of their radii.",
+        "duration": 9.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q12Scene\\sub_0.mp3"
+    },
+    {
+        "time": 11.816666666666666,
+        "text": "Using the formula s equals r times theta, we can set r1 times theta1 equal to r2 times theta2.",
+        "duration": 8.56,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q12Scene\\sub_1.mp3"
+    },
+    {
+        "time": 20.366666666666667,
+        "text": "Therefore, the ratio of the radii is 110 divided by 65, which simplifies to 22 over 13.",
+        "duration": 8.56,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q12Scene\\sub_2.mp3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "To convert radians to degrees, we multiply the radian measure by 180 over pi.",
+        "duration": 6.72,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q4Scene\\sub_0.mp3"
+    },
+    {
+        "time": 8.716666666666667,
+        "text": "Part (i): Converting 5 pi over 3 radians. Multiplying by 180 over pi, pi cancels out, giving 300 degrees.",
+        "duration": 7.6,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q4Scene\\sub_1.mp3"
+    },
+    {
+        "time": 16.3,
+        "text": "Part (ii): Converting 13 pi over 4 radians. Multiplying by 180 over pi simplifies to 585 degrees.",
+        "duration": 9.12,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q4Scene\\sub_2.mp3"
+    },
+    {
+        "time": 25.416666666666668,
+        "text": "Part (iii): Converting minus 24 pi over 5 radians. Multiplying by 180 over pi yields minus 864 degrees.",
+        "duration": 10.16,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q4Scene\\sub_3.mp3"
+    }
+]

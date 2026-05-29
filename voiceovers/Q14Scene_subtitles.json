@@ -1,0 +1,26 @@
+[
+    {
+        "time": 2.0,
+        "text": "Problem: Find the angle in degrees through which a pendulum swings if its length is 50 cm and arc length is 10 cm.",
+        "duration": 10.32,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q14Scene\\sub_0.mp3"
+    },
+    {
+        "time": 12.316666666666666,
+        "text": "First, calculate the angle in radians. Theta is s divided by r, which is 10 over 50, or 1 over 5 radians.",
+        "duration": 8.0,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q14Scene\\sub_1.mp3"
+    },
+    {
+        "time": 20.3,
+        "text": "Convert to degrees: multiply 1 over 5 by 180 over pi. This gives 36 over pi degrees.",
+        "duration": 8.24,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q14Scene\\sub_2.mp3"
+    },
+    {
+        "time": 28.516666666666666,
+        "text": "Using pi as 22 over 7, the result is approximately 11.45 degrees, which converts to 11 degrees, 27 minutes, and 16 seconds.",
+        "duration": 11.84,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q14Scene\\sub_3.mp3"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "time": 3.0,
+        "text": "If θ lies in the second quadrant, then θ is between 90 degrees and 180 degrees.",
+        "duration": 5.28,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q2Scene\\sub_0.mp3"
+    },
+    {
+        "time": 8.25,
+        "text": "Part (i): For θ over 2, dividing the boundaries by 2 gives 45 degrees to 90 degrees.",
+        "duration": 6.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q2Scene\\sub_1.mp3"
+    },
+    {
+        "time": 15.033333333333333,
+        "text": "Part (ii): For 2 θ, multiplying the boundaries by 2 gives 180 degrees to 360 degrees.",
+        "duration": 6.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q2Scene\\sub_2.mp3"
+    },
+    {
+        "time": 21.816666666666663,
+        "text": "Part (iii): For negative θ, multiplying by minus 1 reverses the inequality, giving -180 to -90 degrees.",
+        "duration": 8.8,
+        "audio_path": "voiceovers\\cache_elevenlabs_v3\\Q2Scene\\sub_3.mp3"
+    }
+]
