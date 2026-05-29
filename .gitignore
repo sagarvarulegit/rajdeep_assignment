@@ -5,7 +5,3 @@ __pycache__/
 
 # Manim media cache
 media/
-
-# Temporarily ignore audio/video files for initial push
-*.mp4
-*.mp3
